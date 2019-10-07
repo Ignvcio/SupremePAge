@@ -1,2 +1,0 @@
-# SupremePAge
-Created with CodeSandbox
